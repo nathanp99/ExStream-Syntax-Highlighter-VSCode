@@ -52,25 +52,15 @@
         </dict>
         <dict>
           <key>match</key>
-          <string>(( )+)</string>
-          <key>name</key>
-          <string>comment.ExStream</string>
-        </dict>
-        <dict>
-          <key>include</key>
-          <string>#numeric</string>
-        </dict>
-        <dict>
-          <key>match</key>
           <string>(set)</string>
           <key>name</key>
-          <string>markup.ExStream</string>
+          <string>entity.name.class.ExStream</string>
         </dict>
         <dict>
           <key>match</key>
           <string>(inStreamCount|pastCount|past)</string>
           <key>name</key>
-          <string>meta.ExStream</string>
+          <string>string.ExStream</string>
         </dict>
         <dict>
           <key>match</key>
@@ -109,6 +99,11 @@
         </dict>
        </array>
     </dict>
+    <dict>
+      <key>include</key>
+      <string>#numeric</string>
+    </dict>
+
     <key>main__1</key>
     <dict>
       <key>patterns</key>
