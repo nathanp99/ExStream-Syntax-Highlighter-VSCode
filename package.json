@@ -2,7 +2,7 @@
 	"name": "ExStream",
 	"displayName": "ExStream Syntax Highlighting",
 	"description": "Syntax support for the ExStream programming language.",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "nathanpride",
 	"engines": {
 		"vscode": "*"
