@@ -25,5 +25,10 @@
 	},
 	"categories": [
 		"Programming Languages"
+	],
+	"activationEvents": [
+		"onCommand:editor.ExStream",
+		"onCommand:editor.spl",
+		"onLanguage:ExStream"
 	]
 }
