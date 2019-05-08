@@ -50,7 +50,7 @@
 					"exstream"
 				],
 				"extensions": [
-					".spl",
+					".spl"
 				],
 				"configuration": "./exstream-configuration.json"
 			}
