@@ -63,5 +63,10 @@
 				"path": "./syntaxes/ExStream.tmLanguage"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "41ebe608-6875-4c91-9837-9d09df71cbee",
+		"publisherDisplayName": "Nathan Pride",
+		"publisherId": "917e6a7d-00d3-4bfc-8539-429b644ead4e"
 	}
 }

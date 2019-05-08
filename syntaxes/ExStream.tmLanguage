@@ -5,7 +5,7 @@
 <dict>
   <key>fileTypes</key>
   <array> 
-    <string>spl</string>
+    <string>.spl</string>
    </array>
   <key>name</key>
   <string>ExStream</string>
